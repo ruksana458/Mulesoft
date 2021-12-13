@@ -1,12 +1,12 @@
 Patient Record Update:
 
 pre-requirments:
-details of patient,
+Details of patient,
 laboratory test result
 and overview of medical history of patient
 
-Senario:
-
+Scenario:
+1.
   - Updating patient information(patient name,address,phone no,date,time etc..)
 
 2. Medical History
